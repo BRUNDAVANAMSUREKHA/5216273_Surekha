@@ -69,13 +69,6 @@
 
 ---
 
-## 🏆 Certifications
-
-- [Agile for Beginners – Great Learning](https://www.mygreatlearning.com/academy/learn-for-free/courses/agile-for-beginners)
-- [Git – Simplilearn SkillUp](https://simpli-web.app.link/e/5BtJGOG1hVb)
-
----
-
 ## 🔗 Connect
 
 📫 [LinkedIn – Brundavanam Surekha](https://linkedin.com/in/surekha-brundavanam-66a07b260)
