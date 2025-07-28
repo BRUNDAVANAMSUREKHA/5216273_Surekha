@@ -27,7 +27,7 @@
 
 **Course Platform:** Simplilearn – SkillUp  
 **Course Name:** Cloud Computing & DevOps: Git  
-**Certificate:** [View Certificate](https://simpli-web.app.link/e/5BtJGOG1hVb)  
+**Course Link:** [GIT Training](https://www.simplilearn.com/learn-git-basics-skillup)  
 **LinkedIn Post:** [View Week 2 Post](https://www.linkedin.com/posts/surekha-brundavanam-66a07b260_surekha-brundavanam-has-successfully-completed-activity-7354482183492788225-lNyo)
 
 ### Key Topics:
@@ -44,17 +44,13 @@
 ## 📁 Project Structure
 ```
 5216273_Surekha/
-├── Week1_SDLC_Agile_Testing/
-│ ├── SDLC_Phases.md
-│ ├── Agile_Methodology.md
-│ ├── Testing_Methods.md
-│ └── Assignment_Summary.pdf
+├── Git/
+│ └── 5216273_Surekha.pdf
 │
-├── Week2_Git_Collaboration/
-│ ├── Git_Commands.md
-│ ├── Git_Workflow_Screenshots/
-│ ├── Branching_Merging.md
-│ └── Certificate_Simplilearn.pdf
+├── SDLC/
+│ └── 5216273_Surekha.jpg
+│
+├── test.c
 │
 └── README.md
 ```
@@ -68,6 +64,19 @@
 - Completed hands-on activities using Git Bash and GitHub
 
 ---
+
+## 🏆 Certifications
+
+- **Agile for Beginners – Great Learning**
+  
+  <img width="1376" height="638" alt="image" src="https://github.com/user-attachments/assets/2656ceb2-095f-4bcd-82ec-7980727e9113" />
+
+- **Git – Simplilearn SkillUp**
+  
+  <img width="1376" height="638" alt="image" src="https://github.com/user-attachments/assets/af7e417f-d089-4355-a7c6-52399110a3f7" />
+
+---
+
 
 ## 🔗 Connect
 
