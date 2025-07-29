@@ -1,4 +1,4 @@
-# 🚀 LTTS StepIN Program – Weeks 1 & 2 Project 
+# 🚀 LTTS StepIN Program – Weeks 1 & 3 Project 
 **Author:** Brundavanam Surekha  
 **Program:** StepIN by L&T Technology Services (LTTS)  
 **Repository:** 5216273_Surekha  
@@ -6,6 +6,7 @@
 📍**Weeks Covered:**
 - **Week 1**: Applied SDLC, Agile, and Testing Methodologies (via Great Learning)
 - **Week 2**: Collaboration & Source Code Management with Git (via Simplilearn)
+- **Week 3**: Basics of Linux Commands (Hands-on Training)
 
 ---
 
@@ -41,11 +42,29 @@
 🧪 Software Used:  
 - `Git Bash`, `GitHub`
 
+## 💻 Week 3 – Basics of Linux Commands
+
+**Course Type:** Hands-On Session  
+**Course Name:** Basics of Linux Commands
+
+### Key Topics:
+- Introduction to Linux OS & Architecture  
+- Linux File System basics  
+- Common Linux commands: `date`, `ls`, `pwd`, `echo`, `history`, `man`, `info`  
+- File & Directory handling: `cd`, `mkdir`, `rm`, `cp`, `mv`, `touch`  
+- Text manipulation: `cat`, `nano`, `vi`, `wc`, `tac`, `rev`
+  
+🧪 Software Used: 
+- `WSL (Windows Subsystem for Linux)`, `Ubuntu*`
+
 ---
 ## 📁 Project Structure
 ```
 5216273_Surekha/
 ├── Git/
+│ └── 5216273_Surekha.pdf
+│
+├── Linux/
 │ └── 5216273_Surekha.pdf
 │
 ├── SDLC/
