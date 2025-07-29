@@ -42,6 +42,8 @@
 🧪 Software Used:  
 - `Git Bash`, `GitHub`
 
+---
+
 ## 💻 Week 3 – Basics of Linux Commands
 
 **Course Type:** Hands-On Session  
