@@ -50,11 +50,14 @@
 **Course Name:** Basics of Linux Commands
 
 ### Key Topics:
-- Introduction to Linux OS & Architecture  
-- Linux File System basics  
-- Common Linux commands: `date`, `ls`, `pwd`, `echo`, `history`, `man`, `info`  
-- File & Directory handling: `cd`, `mkdir`, `rm`, `cp`, `mv`, `touch`  
-- Text manipulation: `cat`, `nano`, `vi`, `wc`, `tac`, `rev`
+
+- **Linux Overview:** OS basics, architecture, file system  
+- **Essential Commands:** `date`, `cal`, `uname`, `echo`, `whoami`, `history`  
+- **File Handling:** `cd`, `ls`, `mkdir`, `rm`, `cp`, `mv`, `touch`, `pwd`  
+- **Text Editing & Viewing:** `nano`, `vi`, `cat`, `more`, `less`, `wc`, `rev`, `head`, `tail`  
+- **Filters & Patterns:** `cut`, `paste`, `sort`, `uniq`, `tr`, `grep`, `awk`, `sed`  
+- **Permissions:** `chmod`, `chown`, `umask`  
+- **System Tools:** `ps`, `top`, `df`, `du`, `kill`, `sudo`, `gcc`, `apt`  
   
 🧪 Software Used: 
 - `WSL (Windows Subsystem for Linux)`, `Ubuntu*`
@@ -67,7 +70,9 @@
 │ └── 5216273_Surekha.pdf
 │
 ├── Linux/
-│ └── 5216273_Surekha.pdf
+│ └── 5216273_Surekha_Day2.pdf
+│ └── 5216273_Surekha_Day3.pdf
+
 │
 ├── SDLC/
 │ └── 5216273_Surekha.jpg
