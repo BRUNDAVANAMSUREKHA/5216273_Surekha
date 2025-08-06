@@ -127,7 +127,7 @@
 
 - **C Intermediate – Sololearn**
   
- <img width="1376" height="638" alt="image" src="https://github.com/user-attachments/assets/4466094a-f7f6-4541-9b6d-7214523d3542" />
+  <img width="1376" height="638" alt="image" src="https://github.com/user-attachments/assets/4466094a-f7f6-4541-9b6d-7214523d3542" />
 
 ---
 
