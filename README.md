@@ -100,7 +100,18 @@
 │
 ├── HackerRank/
 │   ├── Week1/
-│   │   ├── plus-minus.c         
+│   │   ├── countingsort.c
+│   │   ├── diagonal_difference.c
+│   │   ├── flippingbits.c
+│   │   ├── lonelyinteger.c
+│   │   ├── minmax.c
+│   │   ├── pangrams.c
+│   │   ├── permuting.c
+│   │   ├── plus-minus.c
+│   │   ├── sparse.c
+│   │   ├── subarray.c
+│   │   ├── time.c
+│   │   └── xorstring.py       
 │
 ├── Linux/
 │   ├── 5216273_Surekha_Day2.pdf
