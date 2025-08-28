@@ -7,7 +7,10 @@
 - **Week 1**: Applied SDLC, Agile, and Testing Methodologies (via Great Learning)
 - **Week 2**: Collaboration & Source Code Management with Git (via Simplilearn)
 - **Week 3**: Basics of Linux Commands (Hands-on Training) & Essentials of C Programming
+- **Week 4**: Unit Testing Using Unity Framework  
 
+📍**Self learning**
+- HackerRank – 4-Week Interview Preparation Kit 
 ---
 
 ## 📘 Week 1 – Applied SDLC, Agile, and Testing Methodologies
@@ -85,6 +88,44 @@
 - `Visual Studio Code with WSL `
 /
 ---
+## 🧪 Week 4 – Unit Testing Using Unity Framework  
+
+**Course Type:** Hands-On Session  
+**Course Name:** Unit Testing Using Unity Framework  
+**LinkedIn Post:** [View Week 4 Post](https://www.linkedin.com/posts/surekha-brundavanam-66a07b260_ltts-stepin-unittesting-activity-7366716604111314944-Gscr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAVBPIBPDWN8L0fKlxarJ8WsGauoskhVbo)
+
+### Key Topics  
+- Introduction to Unit Testing & Test-Driven Development (TDD)  
+- Benefits & challenges of Unit Testing in Embedded C  
+- Multifile projects & Makefile basics (build, link, targets)  
+- Getting started with Unity framework: install & structure  
+- Writing tests for return values, pointers, structs, arrays  
+- Unity macros: `TEST_ASSERT_EQUAL`, `TEST_ASSERT_TRUE`, etc.  
+- Test fixtures: `setUp()` and `tearDown()`  
+- Automating tests via CLI and Makefile integration
+
+🧪 Software Used:  
+- `VS Code`, `Unity Framework`, `WSL2 / Linux`
+
+---
+# 🚀 HackerRank – 4-Week Interview Preparation Kit  
+
+**Course Type:** self learning Session  
+**Course Name:** 1 Month Preparation Kit
+**Course Link:** [hacker-rank-prep-kit  ](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges)
+**LinkedIn Post:** [View hackerrank post](https://www.linkedin.com/posts/surekha-brundavanam-66a07b260_solve-week-1-interview-questions-hackerrank-activity-7366719177534939136-aAhd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAVBPIBPDWN8L0fKlxarJ8WsGauoskhVbo)
+ 
+📍 **Weeks Covered:**  
+- **Week 1**: Problem Solving Basics & Warm-up Challenges  
+  📂 Explore solutions in the `HackerRank/Week1/` folder.  
+- **Week 2**: Arrays, Dictionaries, and Algorithm Patterns  
+  📂 Explore solutions in the `HackerRank/Week2/` folder.  
+- **Week 3**: Strings, Sorting, and Searching  
+  📂 Explore solutions in the `HackerRank/Week3/` folder.  
+- **Week 4**: Advanced Problems & Final Practice  
+  📂 Explore solutions in the `HackerRank/Week4/` folder.  
+
+---
 ## 📁 Project Structure
 ```
 5216273_Surekha/
@@ -98,20 +139,69 @@
 ├── Git/
 │   └── 5216273_Surekha.pdf
 │
-├── HackerRank/
-│   ├── Week1/
-│   │   ├── countingsort.c
-│   │   ├── diagonal_difference.c
-│   │   ├── flippingbits.c
-│   │   ├── lonelyinteger.c
-│   │   ├── minmax.c
-│   │   ├── pangrams.c
-│   │   ├── permuting.c
-│   │   ├── plus-minus.c
-│   │   ├── sparse.c
-│   │   ├── subarray.c
-│   │   ├── time.c
-│   │   └── xorstring.py       
+HackerRank/
+├── Week1/
+│   ├── countingsort.c
+│   ├── diagonal_difference.c
+│   ├── flippingbits.c
+│   ├── lonelyinteger.c
+│   ├── minmax.c
+│   ├── pangrams.c
+│   ├── permuting.c
+│   ├── plus-minus.c
+│   ├── sparse.c
+│   ├── subarray.c
+│   ├── time.c
+│   └── xorstring.py
+│
+├── Week2/
+│   ├── ceasercipher.c
+│   ├── countergame.c
+│   ├── drawingbook.c
+│   ├── dynamicarray.c
+│   ├── grid.c
+│   ├── minmax.c
+│   ├── primedates.py
+│   ├── reversedigit.c
+│   ├── salesbymatch.c
+│   ├── sherlockandarray.c
+│   ├── sumvsxor.c
+│   ├── towrbreaker.c
+│   └── zigzag.java
+│
+├── Week3/
+│   ├── balancedbrackets.c
+│   ├── bambermangame.c
+│   ├── climbingleaderboard.c
+│   ├── doublelinkedlist.c
+│   ├── icecreamparlor.c
+│   ├── insetatany.c
+│   ├── merge.c
+│   ├── newyearchoas.c
+│   ├── queue.c
+│   ├── reverselinkedlist.c
+│   ├── sherlockvalidstring.c
+│   ├── simpletexteditor.c
+│   └── waiter.c
+│
+└── Week4/
+│   ├── arraymanipulation.c
+│   ├── binarysearch.c
+│   ├── castleongrid.c
+│   ├── equalstacks.c
+│   ├── hackerland.c
+│   ├── huffman.c
+│   ├── jesseandcookies.c
+│   ├── legoblocks.c
+│   ├── lily.c
+│   ├── maxsubbarray.c
+│   ├── noprefix.c
+│   ├── palindrome.c
+│   ├── preorder.c
+│   ├── qheap.c
+│   ├── queries.c
+│   ├── roadsandlibraries.c
+│   └── roadsandlibraries.c     
 │
 ├── Linux/
 │   ├── 5216273_Surekha_Day2.pdf
