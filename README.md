@@ -1,4 +1,4 @@
-# 🚀 LTTS StepIN Program – Weeks 1 & 3 Project 
+# 🚀 LTTS StepIN Program – Weeks 1 & 4 Project 
 **Author:** Brundavanam Surekha  
 **Program:** StepIN by L&T Technology Services (LTTS)  
 **Repository:** 5216273_Surekha  
@@ -241,4 +241,4 @@ HackerRank/
 
 📫 [LinkedIn – Brundavanam Surekha](https://linkedin.com/in/surekha-brundavanam-66a07b260)
 
-> _This README summarizes my work for Weeks 1 to 3 of the LTTS StepIN Program 2025._
+> _This README summarizes my work for Weeks 1 to 4 of the LTTS StepIN Program 2025._
