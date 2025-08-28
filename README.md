@@ -110,11 +110,11 @@
 ---
 # 🚀 HackerRank – 4-Week Interview Preparation Kit  
 
-**Course Type:** self learning Session  
-**Course Name:** 1 Month Preparation Kit
-**Course Link:** [hacker-rank-prep-kit  ](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges)
-**LinkedIn Post:** [View hackerrank post](https://www.linkedin.com/posts/surekha-brundavanam-66a07b260_solve-week-1-interview-questions-hackerrank-activity-7366719177534939136-aAhd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAVBPIBPDWN8L0fKlxarJ8WsGauoskhVbo)
- 
+**Course Type:** Self-Learning Session  
+**Course Name:** 1 Month Preparation Kit  
+**Course Link:** [HackerRank Prep Kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges)  
+**LinkedIn Post:** [View HackerRank Post](https://www.linkedin.com/posts/surekha-brundavanam-66a07b260_solve-week-1-interview-questions-hackerrank-activity-7366719177534939136-aAhd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAVBPIBPDWN8L0fKlxarJ8WsGauoskhVbo)  
+
 📍 **Weeks Covered:**  
 - **Week 1**: Problem Solving Basics & Warm-up Challenges  
   📂 Explore solutions in the `HackerRank/Week1/` folder.  
